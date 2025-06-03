@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of Amsterdam</a>. Address. Contacts. Motto. Etc
 
 profile:
   align: right
-  image: DhruvMittal_103124_0004 - Copy_3.jpg
+  image: pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
