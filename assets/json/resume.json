@@ -25,8 +25,8 @@
       "url": "https://www.uva.nl",
       "area": "Computational Science",
       "studyType": "PhD",
-      "startDate": "2021-",
-      %"endDate": "",
+      "startDate": "2021",
+      "endDate": "Ongoing",
       "score": "",
       "courses": [],
       "summary": "Supervised by Dr. Vitor Vasconcelos and Prof. Peter Sloot. Research focuses on complex systems, behavioral economics, and collective decision-making."
@@ -37,8 +37,8 @@
       "url": "https://www.iisermohali.ac.in",
       "area": "Physics",
       "studyType": "BS-MS Integrated",
-      "startDate": "2015-08-01",
-      "endDate": "2020-06-01",
+      "startDate": "2015",
+      "endDate": "2020",
       "score": "8.9/10",
       "courses": [],
       "summary": "Completed Master's thesis on Magnetic Thin Films using Magnetocapacitance."
@@ -151,32 +151,32 @@
       "name": "Complexities of Social Dynamics",
       "summary": "Computational approaches to understand collective behavior for effective stewardship.",
       "highlights": [],
-      "startDate": "2021-09-01",
-      "endDate": "2025-06-01",
+      "startDate": "2021",
+      "endDate": "2025",
       "url": ""
     },
     {
       "name": "Mask-wearing behavior during COVID-19",
       "summary": "Studied global mask-wearing patterns during the pandemic using behavioral modeling. Visiting Researcher at Princeton University.",
       "highlights": [],
-      "startDate": "2024-01-01",
-      "endDate": "2024-12-01",
+      "startDate": "2024",
+      "endDate": "2025",
       "url": ""
     },
     {
       "name": "Targeted Incentives for Social Transitions",
       "summary": "Designed cost-effective policy interventions for catalyzing social tipping. Funded by ENLENS RPA, UvA.",
       "highlights": [],
-      "startDate": "2024-01-01",
-      "endDate": "2025-01-01",
+      "startDate": "2024",
+      "endDate": "2025",
       "url": ""
     },
     {
       "name": "CMIP6 Heatwave Analysis",
       "summary": "Assessed heat stress and heatwave projections for the 21st century based on CMIP6 data in collaboration with MPI Chemistry and IIT Ropar.",
       "highlights": [],
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
+      "startDate": "2021",
+      "endDate": "2022",
       "url": ""
     }
   ]
