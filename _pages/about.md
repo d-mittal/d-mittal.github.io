@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>PhD Candidate, CSL, University of Amsterdam</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD candidate, <a href='https://uva.computationalscience.nl/'> CSL, University of Amsterdam</a>. 
 
 profile:
   align: right
   image: pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>L6.25 LAB 42</p>
+    <p>Science Park</p>
+    <p>Amsterdam, Netherlands</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
