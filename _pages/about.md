@@ -9,9 +9,9 @@ profile:
   image: pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>L6.25 LAB 42</p>
-    <p>Science Park</p>
-    <p>Amsterdam, Netherlands</p>
+    <p>L6.25, LAB 42,</p>
+    <p>Science Park,</p>
+    <p>Amsterdam, Netherlands</p>.
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
