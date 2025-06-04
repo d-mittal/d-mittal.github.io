@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Dhruv Mittal
 permalink: /
-subtitle: <a href='#'>University of Amsterdam</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>PhD Candidate, CSL, University of Amsterdam</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
