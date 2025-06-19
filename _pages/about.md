@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD candidate, <a href='https://uva.computationalscience.nl/'> CSL, University of Amsterdam</a>. 
+#subtitle: PhD candidate, <a href='https://uva.computationalscience.nl/'> CSL, University of Amsterdam</a>. 
 
 profile:
   align: right
