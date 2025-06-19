@@ -76,42 +76,7 @@
       "summary": "Draft under preparation."
     }
   ],
-  "projects": [
-    {
-      "name": "Complexities of Social Dynamics",
-      "summary": "Computational approaches to understand collective behavior for effective stewardship.",
-      "highlights": [],
-      "startDate": "2021",
-      "endDate": "2025",
-      "url": ""
-    },
-    {
-      "name": "Mask-wearing behavior during COVID-19",
-      "summary": "Studied global mask-wearing patterns during the pandemic using behavioral modeling. Visiting Researcher at Princeton University.",
-      "highlights": [],
-      "startDate": "2024",
-      "endDate": "2025",
-      "url": ""
-    },
-    {
-      "name": "Targeted Incentives for Social Transitions",
-      "summary": "Grant received under ENLENS RPA from UvA.",
-      "highlights": [],
-      "startDate": "2024",
-      "endDate": "2025",
-      "url": ""
-    },
-    {
-      "name": "CMIP6 Heatwave Analysis",
-      "summary": "Assessed heat stress and heatwave projections for the 21st century based on CMIP6 data in collaboration with MPI Chemistry and IIT Ropar.",
-      "highlights": [],
-      "startDate": "2021",
-      "endDate": "2022",
-      "url": ""
-    }
-  ],
   "awards": [
-    
     {
       "title": "INSPIRE Scholarship",
       "url": "https://online-inspire.gov.in/",
@@ -192,6 +157,40 @@
       "icon": "",
       "reference": ""
     }
-  ]
+  ],
+  "projects": [
+    {
+      "name": "Complexities of Social Dynamics",
+      "summary": "Computational approaches to understand collective behavior for effective stewardship.",
+      "highlights": [],
+      "startDate": "2021",
+      "endDate": "2025",
+      "url": ""
+    },
+    {
+      "name": "Mask-wearing behavior during COVID-19",
+      "summary": "Studied global mask-wearing patterns during the pandemic using behavioral modeling. Visiting Researcher at Princeton University.",
+      "highlights": [],
+      "startDate": "2024",
+      "endDate": "2025",
+      "url": ""
+    },
+    {
+      "name": "Targeted Incentives for Social Transitions",
+      "summary": "Grant received under ENLENS RPA from UvA.",
+      "highlights": [],
+      "startDate": "2024",
+      "endDate": "2025",
+      "url": ""
+    },
+    {
+      "name": "CMIP6 Heatwave Analysis",
+      "summary": "Assessed heat stress and heatwave projections for the 21st century based on CMIP6 data in collaboration with MPI Chemistry and IIT Ropar.",
+      "highlights": [],
+      "startDate": "2021",
+      "endDate": "2022",
+      "url": ""
+    }
+  ],
   
 }
