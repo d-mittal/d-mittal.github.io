@@ -48,28 +48,28 @@
     {
       "title": "All India Rank 3 in GATE (Ecology and Evolution)",
       "url": "http://gate.iitd.ac.in/",
-      "date": "2021-02-01",
+      "date": "2021",
       "awarder": "IITs and IISc, India",
       "summary": ""
     },
     {
       "title": "INSPIRE Scholarship",
       "url": "https://online-inspire.gov.in/",
-      "date": "2015-08-01",
+      "date": "2015",
       "awarder": "Department of Science and Technology, Government of India",
       "summary": ""
     },
     {
       "title": "KVPY Scholarship",
       "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/kishore-vaigyanik-protsahan-yojana-kvpy",
-      "date": "2015-08-01",
+      "date": "2015",
       "awarder": "Indian Institute of Science, Bangalore",
       "summary": ""
     },
     {
       "title": "NTSE Scholarship",
       "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/national-talent-search-exam-ntse",
-      "date": "2013-06-01",
+      "date": "2013",
       "awarder": "NCERT, New Delhi",
       "summary": ""
     }
@@ -79,30 +79,64 @@
     {
       "name": "Anticonformists catalyze societal transitions and facilitate the expression of evolving preferences",
       "publisher": "PNAS Nexus",
-      "releaseDate": "2024-08-01",
+      "releaseDate": "2024",
       "url": "https://doi.org/10.1093/pnasnexus/pgae302",
       "summary": ""
     },
     {
       "name": "Targeted incentives for social tipping in heterogeneous networked populations",
       "publisher": "arXiv (under review at PNAS)",
-      "releaseDate": "2025-01-20",
+      "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2501.13623",
       "summary": ""
     },
     {
       "name": "Policy, risk perceptions, and social norms shape collective mask-wearing behaviors worldwide",
       "publisher": "",
-      "releaseDate": "2025-06-01",
+      "releaseDate": "2025",
       "url": "",
       "summary": "Draft under preparation."
     },
     {
       "name": "Neutral theory of social behavior in complex networks",
       "publisher": "",
-      "releaseDate": "2025-06-01",
+      "releaseDate": "2025",
       "url": "",
       "summary": "Draft under preparation."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Complexities of Social Dynamics",
+      "summary": "Computational approaches to understand collective behavior for effective stewardship.",
+      "highlights": [],
+      "startDate": "2021",
+      "endDate": "2025",
+      "url": ""
+    },
+    {
+      "name": "Mask-wearing behavior during COVID-19",
+      "summary": "Studied global mask-wearing patterns during the pandemic using behavioral modeling. Visiting Researcher at Princeton University.",
+      "highlights": [],
+      "startDate": "2024",
+      "endDate": "2025",
+      "url": ""
+    },
+    {
+      "name": "Targeted Incentives for Social Transitions",
+      "summary": "Grant received under ENLENS RPA from UvA.",
+      "highlights": [],
+      "startDate": "2024",
+      "endDate": "2025",
+      "url": ""
+    },
+    {
+      "name": "CMIP6 Heatwave Analysis",
+      "summary": "Assessed heat stress and heatwave projections for the 21st century based on CMIP6 data in collaboration with MPI Chemistry and IIT Ropar.",
+      "highlights": [],
+      "startDate": "2021",
+      "endDate": "2022",
+      "url": ""
     }
   ],
   "skills": [
@@ -150,38 +184,5 @@
       "reference": ""
     }
   ],
-  "projects": [
-    {
-      "name": "Complexities of Social Dynamics",
-      "summary": "Computational approaches to understand collective behavior for effective stewardship.",
-      "highlights": [],
-      "startDate": "2021",
-      "endDate": "2025",
-      "url": ""
-    },
-    {
-      "name": "Mask-wearing behavior during COVID-19",
-      "summary": "Studied global mask-wearing patterns during the pandemic using behavioral modeling. Visiting Researcher at Princeton University.",
-      "highlights": [],
-      "startDate": "2024",
-      "endDate": "2025",
-      "url": ""
-    },
-    {
-      "name": "Targeted Incentives for Social Transitions",
-      "summary": "Grant received under ENLENS RPA from UvA.",
-      "highlights": [],
-      "startDate": "2024",
-      "endDate": "2025",
-      "url": ""
-    },
-    {
-      "name": "CMIP6 Heatwave Analysis",
-      "summary": "Assessed heat stress and heatwave projections for the 21st century based on CMIP6 data in collaboration with MPI Chemistry and IIT Ropar.",
-      "highlights": [],
-      "startDate": "2021",
-      "endDate": "2022",
-      "url": ""
-    }
-  ]
+  
 }
