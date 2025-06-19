@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Dhruv Mittal — a physicist-turned-computational-social-scientist trying to make sense of how people behave, decide, and occasionally surprise us all. I started off in the lab, experimenting with collectives of atoms and molecules. These days, I study collectives of people — modeling how ideas spread, norms shift, and societies (sometimes) change for the better.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m currently doing my PhD at the University of Amsterdam, blending agent-based modeling, network science, and behavioral economics to explore how individual quirks scale up to social patterns. From climate action to cultural change, I’m fascinated by the feedback loops that shape our world.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I’m not busy simulating societies or chasing down weird emergent behaviors, I’m probably reading a travel memoir, hiking somewhere green, or deep in a prog rock song that’s at least 7 minutes too long.
+
+Let’s navigate the chaos of social transitions together — with models, insight, and maybe a little rebellion.
