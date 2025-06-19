@@ -44,36 +44,7 @@
       "summary": "Completed Master's thesis on Magnetic Thin Films using Magnetocapacitance."
     }
   ],
-  "awards": [
-    {
-      "title": "All India Rank 3 in GATE (Ecology and Evolution)",
-      "url": "http://gate.iitd.ac.in/",
-      "date": "2021",
-      "awarder": "IITs and IISc, India",
-      "summary": ""
-    },
-    {
-      "title": "INSPIRE Scholarship",
-      "url": "https://online-inspire.gov.in/",
-      "date": "2015",
-      "awarder": "Department of Science and Technology, Government of India",
-      "summary": ""
-    },
-    {
-      "title": "KVPY Scholarship",
-      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/kishore-vaigyanik-protsahan-yojana-kvpy",
-      "date": "2015",
-      "awarder": "Indian Institute of Science, Bangalore",
-      "summary": ""
-    },
-    {
-      "title": "NTSE Scholarship",
-      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/national-talent-search-exam-ntse",
-      "date": "2013",
-      "awarder": "NCERT, New Delhi",
-      "summary": ""
-    }
-  ],
+  
   "certificates": [],
   "publications": [
     {
@@ -137,6 +108,46 @@
       "startDate": "2021",
       "endDate": "2022",
       "url": ""
+    }
+  ],
+  "awards": [
+    
+    {
+      "title": "INSPIRE Scholarship",
+      "url": "https://online-inspire.gov.in/",
+      "date": "2015",
+      "awarder": "Department of Science and Technology, Government of India",
+      "summary": ""
+    },
+    {
+      "title": "KVPY Scholarship",
+      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/kishore-vaigyanik-protsahan-yojana-kvpy",
+      "date": "2015",
+      "awarder": "Indian Institute of Science, Bangalore",
+      "summary": ""
+    },
+    {
+      "title": "NTSE Scholarship",
+      "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/national-talent-search-exam-ntse",
+      "date": "2013",
+      "awarder": "NCERT, New Delhi",
+      "summary": ""
+    }
+  ],
+  "qualifying exams":[
+    {
+      "title": "All India Rank 3 in GATE (Ecology and Evolution)",
+      "url": "http://gate.iitd.ac.in/",
+      "date": "2021",
+      "conducted by": "IITs and IISc, India",
+      "summary": ""
+    },
+    {
+      "title": "Cleared IIT JEE Advanced",
+      "url": "https://jeeadv.ac.in/",
+      "date": "2021",
+      "conducted by": "IITs, India",
+      "summary": ""
     }
   ],
   "skills": [
