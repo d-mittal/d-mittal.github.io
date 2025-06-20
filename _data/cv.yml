@@ -12,13 +12,13 @@
   type: time_table
   contents:
     - title: PhD in Computational Science
-      institution: Universiteit van Amsterdam, Netherlands
+      institution: "<a href=''>Universiteit van Amsterdam</a>, Netherlands"
       year: 2021 – Ongoing
       description:
         - Supervised by Dr. Vitor Vasconcelos and Prof. Peter Sloot.
         - Research focuses on complex systems, behavioral economics, and collective decision-making.
     - title: BS-MS Integrated in Physics
-      institution: IISER Mohali, India
+      institution: "<a href=''>IISER Mohali</a>, India"
       year: 2015 – 2020
       description:
         - Completed Master's thesis on Studying Thin Films using Magnetocapacitance.
