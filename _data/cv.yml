@@ -39,14 +39,14 @@
     - title: The Cost of Large-Scale Transitions: Introducing Effective Targeted Incentives
       year: 2024 – 2025
       description:
-        - "Grant received under <a href='https://www.uva.nl/en/shared-content/zwaartepunten/en/energy-transition-through-the-lens-of-sustainable-developments-goals/enlens.html'>ENLENS RPA</a> from UvA."
+        - Grant received under <a href='https://www.uva.nl/en/shared-content/zwaartepunten/en/energy-transition-through-the-lens-of-sustainable-developments-goals/enlens.html'>ENLENS RPA</a> from UvA.
         - Studied trade-offs essential for optimal interventions.
     - title: CMIP6 Heatwave Analysis
       year: 2021 – 2022
       description:
-        - "Assessed heat stress and heatwave projections for the 21st century based on <a href='https://wcrp-cmip.org/cmip-phases/cmip6/'>CMIP6</a> data."
+        - Assessed heat stress and heatwave projections for the 21st century based on <a href='https://wcrp-cmip.org/cmip-phases/cmip6/'>CMIP6</a> data.
         - Collaboration with MPI Chemistry and IIT Ropar.
-
+        
 - title: Publications
   type: list
   contents:
@@ -67,6 +67,41 @@
     - title: NTSE Scholarship
       year: 2013 – 2015
       institution: "<a href='https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/national-talent-search-exam-ntse'>Awarded by NCERT, New Delhi, India</a>"
+
+      
+- title: Teaching and Supervision
+  type: time_table
+  contents:
+    - title: Daily Supervisor – MSc Thesis
+      year: 2025
+      institution: Universiteit van Amsterdam
+      description:
+        - "Lingyuan Liu: *Modelling adoption of rooftop solar panels in the Netherlands*."
+
+    - title: Daily Supervisor – MSc Thesis
+      year: 2024
+      institution: Universiteit van Amsterdam
+      description:
+        - "Fátima González-Novo López: *Heuristic strategies for cost-optimized institutional incentives in heterogeneous networked populations*."
+
+    - title: Daily Supervisor – MSc Thesis
+      year: 2022
+      institution: Universiteit van Amsterdam
+      description:
+        - "Kamiel Gulpen: *A Digital Twin of Amsterdam's Social Network*."
+
+    - title: Teaching Assistant – “Complexity: Can It Be Simplified?”
+      year: 2022
+      institution: Universiteit van Amsterdam
+      # description:
+      #   - Assisted in course instruction and evaluation for interdisciplinary students.
+
+    - title: Teaching Assistant – “Complex Systems Simulations”
+      year: 2024 – 2025
+      institution: Universiteit van Amsterdam
+      # description:
+      #   - Supported students in Python-based simulations of dynamical systems and networked agents.
+
 
 - title: Qualifying Exams
   type: time_table
