@@ -79,7 +79,8 @@ openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 #google-site-verification=qunWPLeeBOnHDi7LbLrb0PD9udNaDZcp9dHeimlbT0A
-google-site-verification: qunWPLeeBOnHDi7LbLrb0PD9udNaDZcp9dHeimlbT0A # your google-site-verification ID (Google Search Console)
+#<meta name="google-site-verification" content="EtID2SUL8r53JwFLZ6QeC2JirQB_NSw1hiGh8WOlhvY" />
+google-site-verification: EtID2SUL8r53JwFLZ6QeC2JirQB_NSw1hiGh8WOlhvY # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
