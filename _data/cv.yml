@@ -7,11 +7,6 @@
       value: Computational Social Scientist
     - name: Location
       value: Amsterdam, North Holland, Netherlands
-    #- name: Languages
-    #  value: English, Hindi
-    # - name: Summary
-    #   value: >
-    #     PhD candidate in Computational Science working on complex systems and behavioral economics, with a focus on social transitions, network dynamics, and policy interventions.
 
 - title: Education
   type: time_table
@@ -54,36 +49,34 @@
 - title: Publications
   type: list
   contents:
-    - <b>Anticonformists catalyze societal transitions and facilitate the expression of evolving preferences</b>.<a href='https://doi.org/10.1093/pnasnexus/pgae302'> PNAS Nexus, 2024. #[DOI](https://doi.org/10.1093/pnasnexus/pgae302)
-    - <b>Targeted incentives for social tipping in heterogeneous networked populations</b>. <a href='https://arxiv.org/abs/2501.13623'>arXiv (under review at PNAS), 2025. #[arXiv](https://arxiv.org/abs/2501.13623)
-    - <b>Policy, risk perceptions, and social norms shape collective mask-wearing behaviors worldwide</b>. 2025 Draft under preparation.
-    - <b>Neutral theory of social behavior in complex networks</b>.2025. Draft under preparation.
+    - "<b>Anticonformists catalyze societal transitions and facilitate the expression of evolving preferences</b>. <a href='https://doi.org/10.1093/pnasnexus/pgae302'>PNAS Nexus, 2024</a>."
+    - "<b>Targeted incentives for social tipping in heterogeneous networked populations</b>. <a href='https://arxiv.org/abs/2501.13623'>arXiv (under review at PNAS), 2025</a>."
+    - "<b>Policy, risk perceptions, and social norms shape collective mask-wearing behaviors worldwide</b>. 2025. Draft under preparation."
+    - "<b>Neutral theory of social behavior in complex networks</b>. 2025. Draft under preparation."
 
 - title: Honors and Awards
   type: time_table
   contents:
-   - title: INSPIRE Scholarship
+    - title: INSPIRE Scholarship
       year: 2015 – 2020
-      institution: <a href='https://online-inspire.gov.in/'> Awarded by DST, India
-   - title: KVPY Scholarship
+      institution: "<a href='https://online-inspire.gov.in/'>Awarded by DST, India</a>"
+    - title: KVPY Scholarship
       year: 2015
-      institution: <a href='https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/kishore-vaigyanik-protsahan-yojana-kvpy'> Awarded by IISc Bangalore, India  
-   - title: NTSE Scholarship
+      institution: "<a href='https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/kishore-vaigyanik-protsahan-yojana-kvpy'>Awarded by IISc Bangalore, India</a>"
+    - title: NTSE Scholarship
       year: 2013 – 2015
-      institution: <a href='https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/national-talent-search-exam-ntse'> Awarded by NCERT, New Delhi, India  
-    
+      institution: "<a href='https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/national-talent-search-exam-ntse'>Awarded by NCERT, New Delhi, India</a>"
 
 - title: Qualifying Exams
   type: time_table
   contents:
     - title: All India Rank 3 in GATE (Ecology and Evolution)
-      institution: <a href='http://gate.iitd.ac.in/'>Conducted by IITs and IISc, India
       year: 2021
-      
+      institution: "<a href='http://gate.iitd.ac.in/'>Conducted by IITs and IISc, India</a>"
     - title: Cleared IIT JEE Advanced
-      institution: <a href='https://jeeadv.ac.in/'>Conducted by IITs, India
       year: 2015
-      
+      institution: "<a href='https://jeeadv.ac.in/'>Conducted by IITs, India</a>"
+
 - title: Skills
   type: list
   contents:
@@ -108,6 +101,7 @@
   type: list
   contents:
     - Available upon request
+
 
 # - title: General Information
 #   type: map
