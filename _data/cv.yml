@@ -77,12 +77,12 @@
       institution: Conducted by IITs and IISc, India
       year: 2021
       description:
-        - [gate.iitd.ac.in](http://gate.iitd.ac.in/)
+        - "[gate.iitd.ac.in](http://gate.iitd.ac.in/)"
     - title: Cleared IIT JEE Advanced
       institution: Conducted by IITs, India
       year: 2021
       description:
-        - [jeeadv.ac.in](https://jeeadv.ac.in/)
+        - "[jeeadv.ac.in](https://jeeadv.ac.in/)"
 
 - title: Skills
   type: list
