@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website to share ideas, research, and more.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Socio-ecological systems, ABMs, Social transitions, sustainability, energy transition, behavioral science, social tipping, tipping point # add your own keywords or leave empty
+keywords: Socio-ecological systems, ABMs, Social transitions, sustainability, energy transition, behavioral science, social tipping, tipping point, policy # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: pic.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
