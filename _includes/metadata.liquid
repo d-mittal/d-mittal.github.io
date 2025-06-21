@@ -221,21 +221,31 @@
   {% endif %}
 
   <script type="application/ld+json">
-    {
-        "author":
-        {
-            "@type": "Person",
-            "name": "{{ author_name }}"
-        },
-        "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
-        "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
-        "description": "{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description }}{% endif %}",
-        "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
-        {% if sameaslinks != blank %}
-        "sameAs": {{ sameaslinks }},
-        {% endif %}
-        "name": "{{ author_name }}",
-        "@context": "https://schema.org"
-    }
-  </script>
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Dhruv Mittal",
+  "alternateName": "Dhruv Mittal (PhD)",
+  "url": "https://d-mittal.github.io",
+  "image": "https://d-mittal.github.io/assets/img/pic.jpg",
+  "jobTitle": "PhD Researcher in Computational Social Science",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Amsterdam"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "IISER Mohali"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/d-mittal",
+    "https://scholar.google.com/citations?user=LHoA110AAAAJ",
+    "https://orcid.org/0009-0002-6175-5610",
+    "https://github.com/d-mittal",
+    "https://www.researchgate.net/profile/Dhruv_Mittal",
+    "https://www.uva.nl/en/profile/m/i/d.mittal/d.mittal.html",
+ ],
+  "description": "Dhruv Mittal is a computational social scientist studying social transitions, collective behavior, and policy interventions in socio-ecological systems using agent-based models and network science."
+}
+</script>
 {% endif %}
