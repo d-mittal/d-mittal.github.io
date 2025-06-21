@@ -9,11 +9,10 @@ last_name: Mittal
 contact_note: >
   Feel free to reach out if you find something interesting.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website to share ideas, publications, projects..
+  Personal website to share ideas, research, and more.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Socio-ecological systems, ABMs, Research # add your own keywords or leave empty
+keywords: Socio-ecological systems, ABMs, Social transitions, sustainability, energy transition, behavioral science, social tipping, tipping point # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: pic.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -31,7 +30,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
