@@ -5,7 +5,7 @@
     "image": "",
     "email": "",
     "phone": "",
-    "url": " https://d-mittal.github.io/",
+    "url": "https://d-mittal.github.io/",
     "summary": "PhD candidate @ University of Amsterdam in Computational Science working on complex systems and behavioral economics, with a focus on social transitions, network dynamics, and policy interventions.",
     "location": {
       "address": "",
@@ -191,6 +191,6 @@
       "endDate": "2022",
       "url": ""
     }
-  ],
+  ]
   
 }
