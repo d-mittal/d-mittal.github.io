@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -29,7 +29,7 @@ latest_posts:
 
 Hi, I’m Dhruv — a physicist-turned-computational-social-scientist trying to make sense of how people behave, decide, and occasionally surprise us all. I started off in the lab, experimenting with collectives of atoms and molecules. These days, I study collectives of people — modeling how ideas spread, norms shift, and societies (sometimes) change for the better.
 
-I’m currently doing my PhD at the <a href='https://www.uva.nl/en/profile/m/i/d.mittal/d.mittal.html'>University of Amsterdam</a>, blending agent-based modeling, network science, and behavioral economics to explore how individual quirks scale up to social patterns. My research is driven by a big-picture question: 
+I’m currently doing my PhD at the <a href='https://www.uva.nl/en/profile/m/i/d.mittal/d.mittal.html'>University of Amsterdam (UvA)</a>, blending agent-based modeling, network science, and behavioral economics to explore how individual quirks scale up to social patterns. My research is driven by a big-picture question: 
 
 ***How can societal change bring us back into balance with the ecological systems we depend on?***
 
