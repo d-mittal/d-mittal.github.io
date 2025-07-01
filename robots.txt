@@ -4,5 +4,5 @@ permalink: /robots.txt
 User-agent: *
 Disallow: 
 
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://d-mittal.github.io/sitemap.xml
 
