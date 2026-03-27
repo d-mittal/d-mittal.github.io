@@ -10,11 +10,16 @@ I will defend my PhD thesis, *Tipping the Social Balance: Computational Perspect
 - **Time:** 13:00  
 - **Venue:** [Agnietenkapel, University of Amsterdam](https://www.uva.nl/en/shared-content/locaties/en/binnenstad/agnietenkapel.html)  
 - **Address:** Oudezijds Voorburgwal 229–231, 1012 EZ Amsterdam  
-- 
+
 
 ## About the thesis
 
-The thesis explores how collective behavior changes in social systems, with a focus on social transitions, policy interventions, and computational approaches to understanding tipping dynamics. It brings together work on collective behavior, social influence, and decision-making to better understand how societies respond to changing incentives and environments.
+
+Tipping the social balance: Computational perspectives on the dynamics of collective behavior, social transitions, and policy interventions
+D. Mittal
+2026
+ 
+Tackling wicked problems like the climate crisis requires an integrated approach that addresses supply and demand-side dynamics. While individual behavioral choices play a critical role, our understanding of the mechanisms driving these decisions and how they shape collective outcomes remains incomplete. This work focuses on the role of social influence amid evolving environmental signals and inherent uncertainty, and how these forces interact with population heterogeneity and social structures to shape the dynamics of collective behavior. It further explores how policy interventions can be effectively targeted to bring about social transitions by accounting for these complexities. Using game-theoretical and utility-based frameworks, this research develops theoretical insights and demonstrates how empirical data can inform and validate models, illustrated through modelling the global dynamics of mask-wearing behavior during the COVID-19 pandemic. Agent-based models, complemented by analytical formulations, bridge the gap between individual-level behavior and emergent macroscopic dynamics. Altogether, this work contributes to a mechanistic understanding of social systems and supports the development of evidence-based policies aimed at stewarding collective behavior toward socially beneficial outcomes.
 
 ## More information
 
