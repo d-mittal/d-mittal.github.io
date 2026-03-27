@@ -18,5 +18,5 @@ The thesis explores how collective behavior changes in social systems, with a fo
 
 ## More information
 
-- [University of Amsterdam, Agnietenkapel](https://www.uva.nl/en/shared-content/locaties/en/binnenstad/agnietenkapel.html)
-- [University of Amsterdam, defence ceremony information](https://www.uva.nl/shared-content/uva/en/a-z/completing-your-phd-programme/the-defence-ceremony/the-defence-ceremony.html)
+- (https://www.uva.nl/shared-content/uva/en/events/2026/04/tipping-the-social-balance-computational-perspectives-on-the-dynamics-of-collective-behavior-social-transitions-and-policy-interventions.html)
+
