@@ -45,7 +45,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/dhruv-m-114395114", "_blank");
+          window.open("https://www.linkedin.com/in/d-mittal", "_blank");
         },
       },{
         id: 'social-orcid',
