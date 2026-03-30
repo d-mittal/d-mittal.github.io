@@ -6,9 +6,9 @@ related_posts: false
 ---
 
 
-### PhD Defence
+### [PhD Defence](https://www.uva.nl/shared-content/uva/en/events/2026/04/tipping-the-social-balance-computational-perspectives-on-the-dynamics-of-collective-behavior-social-transitions-and-policy-interventions.html)
 
-I will [defend my PhD thesis](https://www.uva.nl/shared-content/uva/en/events/2026/04/tipping-the-social-balance-computational-perspectives-on-the-dynamics-of-collective-behavior-social-transitions-and-policy-interventions.html), *Tipping the Social Balance: Computational Perspectives on the Dynamics of Collective Behavior, Social Transitions and Policy Interventions*, on **Tuesday, 7 April 2026**. 
+I will defend my [PhD thesis](https://hdl.handle.net/11245.1/b1b89fbe-6d82-40ae-afe3-0427addb6a4a), *Tipping the Social Balance: Computational Perspectives on the Dynamics of Collective Behavior, Social Transitions and Policy Interventions*, on **Tuesday, 7 April 2026**. 
 
 ##### Event details
 
