@@ -30,7 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-phd-defence-i-will-defend-my-phd-thesis-tipping-the-social-balance-computational-perspectives-on-the-dynamics-of-collective-behavior-social-transitions-and-policy-interventions-on-tuesday-7-april-2026-event-details-date-tuesday-7-april-2026-time-13-00-venue-agnietenkapel-university-of-amsterdam",
+        },{id: "news-phd-defence-i-will-defend-my-phd-thesis-tipping-the-social-balance-computational-perspectives-on-the-dynamics-of-collective-behavior-social-transitions-and-policy-interventions-on-tuesday-7-april-2026-event-details-date-tuesday-7-april-2026-time-13-00-venue-agnietenkapel-university-of-amsterdam-live-stream-link",
           title: 'PhD Defence I will defend my PhD thesis, Tipping the Social Balance: Computational...',
           description: "",
           section: "News",},{
