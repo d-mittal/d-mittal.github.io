@@ -15,7 +15,7 @@ I will defend my [PhD thesis](https://hdl.handle.net/11245.1/b1b89fbe-6d82-40ae-
 - **Date:** Tuesday, 7 April 2026  
 - **Time:** 13:00  
 - **Venue:** [Agnietenkapel, University of Amsterdam](https://www.uva.nl/en/shared-content/locaties/en/binnenstad/agnietenkapel.html)
-- ** Live stream:** [Link](https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=28d841a1-d45f-48d9-bbb9-b3fa008ee124) 
+- **Live stream:** [Link](https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=28d841a1-d45f-48d9-bbb9-b3fa008ee124) 
 
 
 
